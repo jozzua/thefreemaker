@@ -1,0 +1,8 @@
+# Chapter 1 
+Hello, world!
+
+Save the file.
+
+Next, we're going to tell Leanpub we want this file in the book. To do this, we add the filename of the new file to the Book.txt file. The Book.txt file is just a list of the files in your book, in the order you want them included.
+
+Create a new file called Book.txt, and add a line containing chapter1.txt to it. It should look like this when you're done:
